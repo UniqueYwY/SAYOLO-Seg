@@ -14,7 +14,9 @@ SAYOLO-Seg is an efficient, semi-automated annotation tool designed for **Instan
 
 ## 📺 Demo
 
-![Demo Video](demo.mp4)
+[▶️ Watch Demo Video (demo.mp4)](demo.mp4)
+
+*(Note: GitHub README renders `![]()` as an image tag, which supports GIFs but not MP4 videos. Please click the link above to watch the video in GitHub's player.)*
 
 *Watch the video to see how to annotate complex objects in seconds.*
 
@@ -23,6 +25,7 @@ SAYOLO-Seg is an efficient, semi-automated annotation tool designed for **Instan
 ```text
 SAYOLO-Seg/
 ├── app.py                  # Main Gradio application
+├── classes.txt             # Object class definitions
 ├── requirements.txt        # Dependencies
 ├── data/                   # Place your raw images here
 ├── output/                 # Annotated labels and images save here
@@ -41,7 +44,7 @@ SAYOLO-Seg/
 ### 1. Installation
 
 ```bash
-git clone https://github.com/yourusername/SAYOLO-Seg.git
+git clone https://github.com/UniqueYwY/SAYOLO-Seg.git
 cd SAYOLO-Seg
 pip install -r requirements.txt
 ```

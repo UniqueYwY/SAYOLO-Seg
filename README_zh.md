@@ -14,7 +14,9 @@ SAYOLO-Seg 是一个专为 **实例分割 (Instance Segmentation)** 任务设计
 
 ## 📺 演示
 
-![演示视频](demo.mp4)
+[▶️ 观看演示视频 (demo.mp4)](demo.mp4)
+
+*(注：GitHub README 的图片标签不支持直接播放 MP4 格式，请点击上方链接跳转播放)*
 
 *观看视频了解如何在几秒钟内标注复杂物体。*
 
@@ -23,6 +25,7 @@ SAYOLO-Seg 是一个专为 **实例分割 (Instance Segmentation)** 任务设计
 ```text
 SAYOLO-Seg/
 ├── app.py                  # Gradio 主程序
+├── classes.txt             # 类别定义文件
 ├── requirements.txt        # 依赖包列表
 ├── data/                   # 原始图片存放处
 ├── output/                 # 标注结果保存处
@@ -41,7 +44,7 @@ SAYOLO-Seg/
 ### 1. 安装
 
 ```bash
-git clone https://github.com/yourusername/SAYOLO-Seg.git
+git clone https://github.com/UniqueYwY/SAYOLO-Seg.git
 cd SAYOLO-Seg
 pip install -r requirements.txt
 ```
