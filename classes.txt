@@ -1,0 +1,6 @@
+Desk_lamp
+Potted_plant
+Sofa
+Toy_dog
+Bed
+Bedside_table

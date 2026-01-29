@@ -1,0 +1,27 @@
+# Data and Logs
+__pycache__/
+*.pyc
+*.log
+runs/
+runs_seg_train/
+inference_results/
+
+# Datasets (Local Absolute Path Debugging)
+dataset/
+raw_data/
+test_data/
+
+# Model Weights (Large files)
+*.pt
+*.pth
+assets/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+venv/
+gradio_cache_*/
+gradio_cache/
