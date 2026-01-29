@@ -14,9 +14,7 @@ SAYOLO-Seg is an efficient, semi-automated annotation tool designed for **Instan
 
 ## 📺 Demo
 
-[▶️ Watch Demo Video (demo.mp4)](demo.mp4)
-
-*(Note: GitHub README renders `![]()` as an image tag, which supports GIFs but not MP4 videos. Please click the link above to watch the video in GitHub's player.)*
+![Demo](demo.gif)
 
 *Watch the video to see how to annotate complex objects in seconds.*
 

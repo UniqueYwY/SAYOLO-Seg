@@ -14,9 +14,7 @@ SAYOLO-Seg 是一个专为 **实例分割 (Instance Segmentation)** 任务设计
 
 ## 📺 演示
 
-[▶️ 观看演示视频 (demo.mp4)](demo.mp4)
-
-*(注：GitHub README 的图片标签不支持直接播放 MP4 格式，请点击上方链接跳转播放)*
+![Demo](demo.gif)
 
 *观看视频了解如何在几秒钟内标注复杂物体。*
 
